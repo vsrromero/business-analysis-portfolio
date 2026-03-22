@@ -14,7 +14,7 @@ All company names, systems, and internal identifiers were replaced with generic 
 2. [AI Workforce Reporting Feature](./ba-documents/features/AI_Workforce_Reporting_SPEC.md)  
    Feature specification for an AI-powered reporting assistant capable of generating workforce reports based on natural language prompts.
 
-3. [Weekly Attendance Calendar Bug Analysis](./ba-documents/bug-reports/Weekly_Attendance_Calnedar_Display_BUG.md)  
+3. [Weekly Attendance Calendar Bug Analysis](./ba-documents/bug-reports/Weekly_Attendance_Calendar_Display_BUG.md)  
    Investigation of a calendar display issue affecting weekly attendance views, including expected behaviour and technical recommendations.
 
 4. [Employee List Navigation Improvement ](/ba-documents/features/Attendance_List_Navigation_And_Pagination_SPEC.md)
